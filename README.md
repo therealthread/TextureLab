@@ -6,7 +6,9 @@ A custom Resource Pack generator and viewer for Minecraft: Java Version, develop
 # Node-based Editor
 Experience Minecraft models like never before with the node‑based editor system!
 
-Video: https://www.youtube.com/watch?v=GtUOZYtwErk
+![](https://github.com/therealthread/TextureLab/blob/main/node-editor.gif?raw=true)
+
+on youtube: https://www.youtube.com/watch?v=GtUOZYtwErk
 
 # CustomModelData
 
