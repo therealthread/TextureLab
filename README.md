@@ -1,5 +1,6 @@
 # TextureLab
 A custom Resource Pack generator and viewer for Minecraft: Java Version, developed in Java and using its own JFX canvas-based UI system.
+EDIT: The system may undergo design changes... I'm trying to keep it as original as possible.
 
 ![](https://github.com/therealthread/TextureLab/blob/main/view.png?raw=true)
 
