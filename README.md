@@ -14,12 +14,11 @@ Experience Minecraft models like never before with the node‑based editor syste
   - SimpleModel
   - Empty
   - Multiple Tint Model (Per model's texture)
-    - Tints:
-      * Constant
-      * GrassTint (temperature, downfall)
-      * DyedTint
-      * Team (Determining according to the team's colors)
-      * Potion
+    * Constant
+    * GrassTint (temperature, downfall)
+    * DyedTint
+    * Team (Determining according to the team's colors)
+    * Potion
   - Condition Models
     - Simple Condition
     - Keybind
