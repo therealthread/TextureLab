@@ -6,7 +6,7 @@ A custom Resource Pack generator and viewer for Minecraft: Java Version, develop
 # Node-based Editor
 Experience Minecraft models like never before with the node‑based editor system!
 
-https://www.youtube.com/watch?v=GtUOZYtwErk
+[![Watch the demo](https://img.youtube.com/vi/GtUOZYtwErk/hqdefault.jpg)](https://www.youtube.com/watch?v=GtUOZYtwErk)
 
 # CustomModelData
 
