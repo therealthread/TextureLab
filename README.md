@@ -21,7 +21,7 @@ You can't directly own the library; I'm continuing to simplify this as much as p
 
 And yes, the app is completely free.
 
-```java
+`java
 public static void main(String[] args) {
 
         MultiComponentConditionModel<EnchantmentEntry> fire_aspect =
@@ -115,7 +115,7 @@ public static void main(String[] args) {
 
         System.out.println(ModelSerializer.toJson(cmd).toString(2));
     }
-```
+`
 
 out:
 ```json
