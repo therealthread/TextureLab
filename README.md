@@ -3,7 +3,6 @@ A custom Resource Pack generator and viewer for Minecraft: Java Edition. Develop
 
 ![](https://github.com/therealthread/TextureLab/blob/main/assets/view.png?raw=true)
 
-##Rights and relationships (EN)
 > [!IMPORTANT]
 >
 > This application uses textures from the Minecraft game developed by Mojang Studios and
