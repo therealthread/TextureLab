@@ -8,5 +8,5 @@ A custom Resource Pack generator and viewer for Minecraft: Java Edition. Develop
 > This application uses textures from the Minecraft game developed by Mojang Studios and
 > features a user interface inspired by the Minecraft: Bedrock Edition theme.
 >
-> All materials related to Minecraft Bedrock Edition are the property of Mojang Studios (Microsoft).
+> All materials related to Minecraft Java & Bedrock Edition are the property of Mojang Studios (Microsoft).
 > This project (Texture Lab) is not officially affiliated with Mojang or Microsoft and was not developed with their approval.
