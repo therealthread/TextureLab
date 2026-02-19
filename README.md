@@ -3,7 +3,7 @@ A custom Resource Pack generator and viewer for Minecraft: Java Edition. Develop
 
 ![](https://github.com/therealthread/TextureLab/blob/main/assets/tlab.png?raw=true)
 
-#Try on big screen
+> Try on big screen (1920x1080)
 ![](https://github.com/therealthread/TextureLab/blob/main/assets/big_screen.png?raw=true)
 
 > [!IMPORTANT]
