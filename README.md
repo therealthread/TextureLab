@@ -1,5 +1,5 @@
 # Texture Lab
-A custom Resource Pack generator and viewer for Minecraft: Java Edition. Developed in Java and using JFX (non-modular) libraries, it features an interface built from scratch on a canvas-based render pipeline.
+A custom Resource Pack generator and viewer for Minecraft: Java Edition. Developed with Java, (C++, and C - cross) using JFX (non-modular) and JNA. libraries, it features an interface built from scratch on a canvas-based render pipeline.
 
 ![](https://github.com/therealthread/TextureLab/blob/main/assets/tlab.png?raw=true)
 
