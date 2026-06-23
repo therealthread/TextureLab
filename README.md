@@ -5,8 +5,6 @@ A custom Resource Pack generator and viewer for Minecraft: Java Version, develop
 ![](https://github.com/therealthread/TextureLab/blob/main/tlab.png?raw=true)
 ![](https://github.com/therealthread/TextureLab/blob/main/exam.png?raw=true)
 ![](https://github.com/therealthread/TextureLab/blob/main/exam2.png?raw=true)
-
-Minecraft's new component item model system allows for visual customization.
 ![](https://github.com/therealthread/TextureLab/blob/main/nbe.png?raw=true)
 
 
